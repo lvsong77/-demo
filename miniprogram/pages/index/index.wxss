@@ -1,1 +1,6 @@
 /* miniprogram/pages/index/index.wxss */
+.top {
+  width: 100vw;
+  height: 50px;
+  background: #a40035
+}
